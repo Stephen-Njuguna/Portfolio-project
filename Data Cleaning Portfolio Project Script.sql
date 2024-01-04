@@ -1,4 +1,4 @@
--- Previewing the dataset
+-- Previewing the datasets
 
 select * 
 from PortfolioProject..NashvileHousing ;

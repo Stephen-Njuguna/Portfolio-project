@@ -1,4 +1,4 @@
--- Previewing the Covid-19 Deaths dataset
+-- Previewing the Covid-19 Deaths datasets
 select * from 
 PortfolioProject..CovidDeaths
 order by 3,4;

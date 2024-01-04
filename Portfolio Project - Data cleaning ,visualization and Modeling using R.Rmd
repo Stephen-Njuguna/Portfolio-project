@@ -171,7 +171,7 @@ There is a very low amount of phones that are not 3_G enabled accross all price 
 
 
 ```{r}
-#Plotting dual sim and price range 
+#Plotting dual sim phones and price range 
 library(ggplot2)
 
 ggplot(phone_df, aes(x=price_range, fill = dual_sim)) +
